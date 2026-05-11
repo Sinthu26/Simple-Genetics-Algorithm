@@ -1,5 +1,4 @@
-# CP468 Term Project — Simple Genetic Algorithm
-Course: CP468 Artificial Intelligence — Wilfrid Laurier University, Winter 2026
+# Simple Genetic Algorithm
 Test Functions: De Jong's Sphere Function, Rosenbrock's Valley, Himmelblau's Function
 
 ## Requirements
@@ -25,9 +24,8 @@ Four configurations are tested to study the effect of parameter variations:
 3. High Mutation     — pop=100, mut=0.05, cross=0.8
 4. Low Crossover     — pop=100, mut=0.01, cross=0.4
 
-## Project Structure
-CP468-TP-GroupID/
+## Folder Structure
+Simple Genetics Algorithm/
 ├── genetic_algorithm.py
 ├── README.md
-├── design_document.pdf
-└── comparison_report.pdf
+└── .gitignore
