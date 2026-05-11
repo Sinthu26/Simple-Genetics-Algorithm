@@ -1,6 +1,5 @@
 """
-CP468 - Artificial Intelligence
-Term Project: Simple Genetic Algorithm (SGA)
+Simple Genetic Algorithm (SGA)
 Test Functions: De Jong's Sphere Function, Rosenbrock's Valley, Himmelblau's Function
 """
 
